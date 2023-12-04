@@ -1,5 +1,7 @@
 # Quick Type Quest Challange
 
+Try the game from here: [Quick Type Quest Challenge](https://hr-fahim.github.io/Quick-Type-Quest-Challange/)
+
 ## Description
 
 This project is a JavaScript Typing Speed Test designed to help users assess and improve their typing skills. The game challenges users to replicate a provided text within a specified time frame. The primary goal is to accurately type the given text as quickly as possible.
